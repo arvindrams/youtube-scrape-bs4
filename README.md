@@ -1,4 +1,4 @@
-# youtube-scrape-bs4
+# youtube-scrape-requests
 Youtube scraper : Trending videos using Beautiful Soup and AWS LAMBDA
 
 
